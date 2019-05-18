@@ -1,3 +1,6 @@
 [submodule "child"]
 	path = child
 	url = https://github.com/sunilkataria/child
+[submodule "master"]
+	path = master
+	url = https://github.com/sunilkataria/master
